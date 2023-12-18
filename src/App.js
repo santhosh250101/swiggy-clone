@@ -1,21 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-/*
-Header
-  -Logo
-  -Nav Items
-Body
-  -Search
-  -RestaurantContainer
-    -RestaurantCard
-Footer
-  -Copyright
-  -Links
-  -Address
-  -Contact
-*/
-
 function App() {
   return (
     <div className="App">
