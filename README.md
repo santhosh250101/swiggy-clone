@@ -87,3 +87,9 @@ Footer
   -Address
   -Contact
 */
+
+  useEffect(() => {
+    console.log(`call back called`);
+  }, []);
+
+  once the component is rendered useEffect is called in above case
